@@ -1,0 +1,3 @@
+- electron
+- resize-img
+- toastify-js
